@@ -1,1 +1,1 @@
-# personalAssistant
+# personal AI Assistant
