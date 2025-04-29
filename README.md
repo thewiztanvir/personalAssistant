@@ -1,1 +1,1 @@
-# personal AI Assistant
+# personal AI Voice Assistant
